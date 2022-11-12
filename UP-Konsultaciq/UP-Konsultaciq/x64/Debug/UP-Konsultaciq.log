@@ -1,0 +1,4 @@
+﻿  UP-Konsultaciq.cpp
+C:\Users\zhuli\source\repos\UP-Konsultaciq\UP-Konsultaciq\UP-Konsultaciq.cpp(17,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zhuli\source\repos\UP-Konsultaciq\UP-Konsultaciq\UP-Konsultaciq.cpp(96,13): warning C4018: '<': signed/unsigned mismatch
+  UP-Konsultaciq.vcxproj -> C:\Users\zhuli\source\repos\UP-Konsultaciq\x64\Debug\UP-Konsultaciq.exe
